@@ -48,9 +48,18 @@ trong terminal chạy lệnh:
 
 ### Tạo phiên bản mới trên App Store
 
+- Menu App Store/ (+) VERSION OR PLATFORM/ iOS
+
 ![Organizer](newversion.png)
+
+- Click (+) gần build, Chọn Phiên bản upload, Chọn Review (hay Release)
+
+![Organizer](newversion2.png)
 
 ### Xem phiên bản đã upload
 
+- Menu TestFight/ iOS
+
 ![Organizer](uploadversion.png)
 
+---
