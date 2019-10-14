@@ -12,12 +12,21 @@
 ## Upload New version
 
 - Truy cập Google Play Console: <https://play.google.com/apps/publish>
-- Làm theo các bước
+- Làm theo các bước:
 
+- Chọn ứng dụng chỉnh sửa
 ![](1.jpg)
+
+- Chọn Release Dashboard
 ![](2.jpg)
+
+- Chọn Edit Release
 ![](3.jpg)
+
+- Upload file Apk mới
 ![](4.jpg)
+
+- Gởi Review Apk mới
 ![](5.jpg)
 
 ---
